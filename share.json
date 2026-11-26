@@ -1,6 +1,6 @@
 {
-    "enabled":  true,
-    "message":  "",
+    "enabled":  false,
+    "message":  "이 서버는 더 이상 쓰지 않아요",
     "catalog":  [
                     {
                         "key":  "wori",
