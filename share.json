@@ -2,9 +2,56 @@
     "enabled":  false,
     "message":  "",
     "catalog":  [
-
+                    {
+                        "key":  "wori",
+                        "name":  "워리",
+                        "package":  "com.thkim.worifriend",
+                        "watchKey":  "woriwatch",
+                        "order":  1,
+                        "apiUsed":  true,
+                        "description":  "워치로 녹음하면 폰이 글로 바꾸고 요약해 줘요. 받아쓰기·요약에는 본인의 API 키가 필요해요."
+                    }
                 ],
     "apps":  {
-
+                 "worihub":  {
+                                 "packageName":  "com.thkim.worihub",
+                                 "versionCode":  1,
+                                 "versionName":  "0.0.0",
+                                 "apkUrl":  "https://github.com/thkim0515/wh-share-7c41/releases/download/worihub-0.0.0/worihub-0.0.0.apk",
+                                 "sha256":  "6be2e8ce944ea50f5b0831d9c420ed09be1cbd36bef20bac8539a1dcdae2fa44",
+                                 "size":  48254815,
+                                 "notes":  "처음 배포해요. 워리 폰 앱과 워치 앱을 여기서 설치하고 업데이트할 수 있어요.",
+                                 "publishedAt":  1795665708252
+                             },
+                 "worihubwatch":  {
+                                      "packageName":  "com.thkim.worihub",
+                                      "versionCode":  1,
+                                      "versionName":  "0.0.0",
+                                      "apkUrl":  "https://github.com/thkim0515/wh-share-7c41/releases/download/worihubwatch-0.0.0/worihubwatch-0.0.0.apk",
+                                      "sha256":  "23949bdab8fced8a6b06b48c087354ac17eb4969ab9bad755d33c4ad4f993ab8",
+                                      "size":  6795240,
+                                      "notes":  "처음 배포해요. 워리 폰 앱과 워치 앱을 여기서 설치하고 업데이트할 수 있어요.",
+                                      "publishedAt":  1795665717757
+                                  },
+                 "wori":  {
+                              "packageName":  "com.thkim.worifriend",
+                              "versionCode":  1,
+                              "versionName":  "0.0.0",
+                              "apkUrl":  "https://github.com/thkim0515/wh-share-7c41/releases/download/wori-0.0.0/wori-0.0.0.apk",
+                              "sha256":  "a782f771645d80d55d7ffcbc12b89eb744c1429c5926ba9ba94112515fa54b74",
+                              "size":  7792896,
+                              "notes":  "처음 배포해요. 워리 폰 앱과 워치 앱을 여기서 설치하고 업데이트할 수 있어요.",
+                              "publishedAt":  1795665726744
+                          },
+                 "woriwatch":  {
+                                   "packageName":  "com.thkim.worifriend",
+                                   "versionCode":  1,
+                                   "versionName":  "0.0.0",
+                                   "apkUrl":  "https://github.com/thkim0515/wh-share-7c41/releases/download/woriwatch-0.0.0/woriwatch-0.0.0.apk",
+                                   "sha256":  "6457ae8487efe9caa6b581cf952295c78d1ec1497d66037cd9f1e786f3ad313f",
+                                   "size":  9282252,
+                                   "notes":  "처음 배포해요. 워리 폰 앱과 워치 앱을 여기서 설치하고 업데이트할 수 있어요.",
+                                   "publishedAt":  1795665734763
+                               }
              }
 }
