@@ -1,6 +1,6 @@
 {
-    "enabled":  false,
-    "message":  "시험 중이에요",
+    "enabled":  true,
+    "message":  "",
     "catalog":  [
                     {
                         "key":  "wori",
