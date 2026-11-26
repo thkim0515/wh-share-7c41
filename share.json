@@ -15,13 +15,13 @@
     "apps":  {
                  "worihub":  {
                                  "packageName":  "com.thkim.worihub",
-                                 "versionCode":  2,
-                                 "versionName":  "0.0.1",
-                                 "apkUrl":  "https://github.com/thkim0515/wh-share-7c41/releases/download/worihub-0.0.1/worihub-0.0.1.apk",
-                                 "sha256":  "832d6d083d9fac8ff4f1afae1ba8a3cf0ccbfecb331e68cf1102b66a39bb2183",
+                                 "versionCode":  3,
+                                 "versionName":  "0.0.2",
+                                 "apkUrl":  "https://github.com/thkim0515/wh-share-7c41/releases/download/worihub-0.0.2/worihub-0.0.2.apk",
+                                 "sha256":  "118231291cbc1d151bd7f35b6db69ecd43512d2fe0fce3e28634243b45a18c2a",
                                  "size":  48254815,
                                  "notes":  "서버 확인을 더 빠르게 하고 화면 문구를 다듬었어요.",
-                                 "publishedAt":  1795666395065
+                                 "publishedAt":  1795666960949
                              },
                  "worihubwatch":  {
                                       "packageName":  "com.thkim.worihub",
@@ -31,7 +31,7 @@
                                       "sha256":  "f9b0e4fcba579e30d88698d678fa7e0476dc195e681665e4b8a9a84095213499",
                                       "size":  6796260,
                                       "notes":  "서버 확인을 더 빠르게 하고 화면 문구를 다듬었어요.",
-                                      "publishedAt":  1795666404247
+                                      "publishedAt":  1795666971051
                                   },
                  "wori":  {
                               "packageName":  "com.thkim.worifriend",
